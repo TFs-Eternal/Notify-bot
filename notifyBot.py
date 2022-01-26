@@ -36,7 +36,7 @@ user = Anilist.Anilist(username)
 
 bot = commands.Bot(command_prefix='.')
 
-channel_id = None # channel id to send msg in
+channel_id = [909041571524128789] # channel id to send msg in
 
 
 # creates two process one for comands and another for tasks
